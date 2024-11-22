@@ -1,7 +1,24 @@
-echo "# app-dev" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Glean316957/app-dev.git
-git push -u origin main
+**AVENGERS: END GAME**
+
+*Notable Characters*
+-Iron Man (Tony Stark)
+-Captain America (Steve Rogers)
+-Thor
+-Hulk (Bruce Banner)
+-Black Widow (Natasha Romanoff
+-Hawkeye (Clint Barton)
+-Ant-Man (Scott Lang)
+-Captain Marvel (Carol Danvers)
+-Thanos
+-Gamora
+
+
+*Events of the Movie*
+1. The Aftermath of the Snap
+2. The Avengers’ Attempt to Find Thanos
+4. The Avengers Travel Through Time
+5. The Return to the Present and Creation of the Infinity Gauntlet
+6. Thanos’ Attack on the Avengers Compound
+7. The Final Battle and the Death of Iron Man
+8. Captain America Returns the Stones and Makes a Final Choice
+
